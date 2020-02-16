@@ -1,7 +1,7 @@
 # CV Junior Front-End Developer
 
 # Yauhen Paliakou
-![Photo](https://jekman87.github.io/rsschool-2019Q1-cv/avatar.jpg)
+![Photo](https://jekman87.github.io/rsschool-cv/avatar.jpg)
 
 ### Contacts:
 * Belarus, Minsk
@@ -38,3 +38,11 @@ I am very interested in web development. At the moment, mastering the back-end a
 * Video course “Php programming on the Zend Framework. Evgeny Popov"
 * I read a book “JavaScript language. Ilya Kantor"
 * Started a JavaScript / Front-end course at The Rolling Scopes School
+
+
+### Education
+BSTU, Organic Technology, Engineer chemist technologist
+
+
+### English level
+I have **A2** level. I studied English at school, university and at various online [courses](https://www.englishdom.com). Currently I’m working to improve my level of English to B1.
