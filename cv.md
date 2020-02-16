@@ -19,3 +19,22 @@ I am very interested in web development. At the moment, mastering the back-end a
 * Frameworks: **Zend Framework**
 * Other technologies: **Git, MySQL**
 * Software: **VSCode, PHPShtorm, Photoshop, Sony Vegas**
+
+
+### Code examples:
+* [Learning PHP](https://docs.google.com/document/d/1D1WTPZFApVrT4gEpFyUKI-7jHnYC_mqMdwZzGn0K0hQ/edit)
+* [Learning Zend Framework](https://docs.google.com/document/d/1BxEHl-8nn0kidMZspxbUXzH09M0yOOWtkwwml1ap4_c/edit)
+* [First site on Zend Framework](http://jekman.tk), his [code](https://github.com/Jekman87/it)
+* [C$50 Finance (PHP, HTML, CSS, MySQL)](https://github.com/Jekman87/C-50-Finance)
+
+
+### IT experience:
+* Now I study at the leading programmer of the [For-Sage.Info](For-Sage.Info) system
+* Completed a [Harvard course CS50](https://javarush.ru/quests/QUEST_HARVARD_CS50)
+* Some courses on [geekbrains.ru](https://geekbrains.ru/users/303892)
+* [htmlacademy.ru](https://htmlacademy.ru/profile/id110399)
+* [codecademy.com](https://www.codecademy.com/Jekman87)
+* Book "PHP for Dummies" and "MySQL 5.0. Library programmer" V. Holtzman
+* Video course “Php programming on the Zend Framework. Evgeny Popov"
+* I read a book “JavaScript language. Ilya Kantor"
+* Started a JavaScript / Front-end course at The Rolling Scopes School
