@@ -30,7 +30,15 @@ h2 {
   text-transform: uppercase;
 }
 
-ul {
+h3 {
+  margin-top: 20px;
+  font-weight: 700;
+  font-size: 20px;
+  font-family: "MavenPro-Regular", "Arial", sans-serif;
+  color: black;
+}
+
+ul, ol {
   margin-left: 20px;
 }
 
@@ -114,6 +122,15 @@ a:hover {
 
   border: 2px solid gray;
   border-radius: 10px;
+}
+
+.info-block p {
+  margin-bottom: 10px;
+}
+
+.info-block .comment {
+  font-size: 16px;
+  color: gray;
 }
 
 .footer {
