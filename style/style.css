@@ -1,0 +1,147 @@
+@import url("fonts.css");
+
+body {
+  font-size: 18px;
+  line-height: 24px;
+  font-family: "Lato-Regular", "Arial", sans-serif;
+  text-align: justify;
+
+  background: #e1e0db;
+}
+
+h1 {
+  margin: 30px 10px 20px;
+
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 32px;
+  font-family: "MavenPro-Regular", "Arial", sans-serif;
+  text-align: center;
+  color: darkslategray;
+}
+
+h2 {
+  margin: 10px;
+
+  font-weight: 700;
+  font-size: 24px;
+  font-family: "MavenPro-Regular", "Arial", sans-serif;
+  color: darkcyan;
+  text-transform: uppercase;
+}
+
+h3 {
+  margin-top: 20px;
+  font-weight: 700;
+  font-size: 20px;
+  font-family: "MavenPro-Regular", "Arial", sans-serif;
+  color: black;
+}
+
+ul, ol {
+  margin-left: 20px;
+}
+
+a {
+  color: steelblue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lightseagreen;
+}
+
+.content-container {
+  max-width: 1024px;
+  margin: 0 auto;
+
+  background: #f4f3f4;
+}
+
+.page-nav__list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 40px;
+  margin-left: 0;
+  padding: 10px;
+
+  list-style: none;
+
+  background: dimgrey;
+}
+
+.page-nav__list li {
+  margin: 10px;
+}
+
+.page-nav__list a {
+  color: azure;
+  text-decoration: none;
+}
+
+.page-nav__list a:hover {
+  color: lightseagreen;
+}
+
+.contact-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.contact-container__avatar {
+  border-radius: 10px;
+}
+
+.contact-container__contacts {
+  width: 40%;
+}
+
+.contact-container__contacts ul {
+  margin-left: 0;
+
+  list-style: none;
+}
+
+.contact__icon {
+  color: darkcyan;
+}
+
+.contact-container__contacts li:hover .contact__icon {
+  color: #35609f;
+}
+
+.info-block {
+  margin: 10px 20px;
+  padding: 15px;
+  overflow: hidden;
+
+  border: 2px solid gray;
+  border-radius: 10px;
+}
+
+.info-block p {
+  margin-bottom: 10px;
+}
+
+.info-block .comment {
+  font-size: 16px;
+  color: gray;
+}
+
+.footer {
+  min-height: 30px;
+  padding: 10px;
+
+  color: azure;
+
+  background: dimgrey;
+}
+
+.subparagraphs {
+  margin-left: 35px;
+}
